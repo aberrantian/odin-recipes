@@ -1,1 +1,1 @@
-By completing this project I will have shown
+By completing this project I will have shown my ability to work with HTML and CSS.
